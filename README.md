@@ -61,6 +61,10 @@ node index.js
 
 Calculate the situation of each student based on the average of the 3 tests (P1, P2 and P3)
 
+```
+   Note: The scale used for the grades followed the data already existing in the spreadsheet, ranging from 0 to 100
+```
+
 - `m<5`: Failed by Grade
 - `5<=m<7`: Final exam
 - `m>=7`: Approved
